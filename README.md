@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋  
 
-<!--
-**LaisColetta/LaisColetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Lais**, a Global Insights Data Analyst at TikTok with a background in Social Communications and a Higher Diploma in Data Analytics. With over five years of experience as a Quality Analyst, I am passionate about solving problems and telling compelling stories through data.  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+- 📊 Data-Driven Storyteller – Uncovering insights that drive meaningful decisions.  
+- 🛠 Skilled in: SQL, Python (Pandas, NumPy, Matplotlib), Data Visualization (Power BI, Tableau).  
+- 🔍 Strengths: Analytical thinking, workflow optimization, stakeholder collaboration.  
+- 🚀 Adaptable & Innovative – Always eager to explore new ideas and improve processes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects  
+- 🔗 [xxx](link)  
+- 🔗
+- 🔗
+
+### 📫 Connect with Me  
+- 📩 Email: laiscoletta@gmail.com 
+- 🔗 LinkedIn: [Lais Coletta] (https://www.linkedin.com/in/laiscoletta/)
